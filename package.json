@@ -1,0 +1,22 @@
+{
+  "name": "blank-fullpage-presentation",
+  "version": "1.0.0",
+  "description": "Blank Presentation using Fullpage.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operapreneur/blank-fullpage-presentation.git"
+  },
+  "author": "Joel Herold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/operapreneur/blank-fullpage-presentation/issues"
+  },
+  "homepage": "https://github.com/operapreneur/blank-fullpage-presentation#readme",
+  "dependencies": {
+    "fullpage.js": "^2.9.4"
+  }
+}
